@@ -1,9 +1,0 @@
-prefix=/mnt/d/OneDrive/02_Daedo/01_Git/01_Gym/13_Premium_prediction/Insurance-Premium-Prediction-/venv_ml
-exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
-includedir=${prefix}/include
-
-Name: OpenSSL
-Description: Secure Sockets Layer and cryptography libraries and tools
-Version: 1.1.1t
-Requires: libssl libcrypto
